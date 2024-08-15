@@ -21,8 +21,8 @@ The model considers the following variables to make predictions:
 To run this project locally, follow the steps below:  
 
 **Clone the repository:**          
-  git clone https://github.com/your_username/loan-approval-prediction.git        
-  cd loan-approval-prediction      
+  git clone https://github.com/A-Pavan-Kumar/Loan_Approval_Classifier.git        
+  cd Loan_Approval_Classifier      
 **Run the model:**      
   Use the following script to train the Decision Tree model and predict loan approval:      
     python loan_approval_model.py   
